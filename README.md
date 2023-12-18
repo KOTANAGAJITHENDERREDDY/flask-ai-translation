@@ -10,8 +10,8 @@
 <h3>
 Core Azure Services : <br>
 1. Azure App Service <br>
-2. Azure SQL Database <br> <br>
-3. Storage Account <br><br>
+2. Azure SQL Database <br>
+3. Storage Account <br>
 Azure AI Service <br>
 1. Azure AI Translator Service
 </h3>
